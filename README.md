@@ -7,7 +7,7 @@
 
 <br />
 
-E aí, eu sou [Eduardo Marreiro](https://eduardomarreiro.me/), um apaixonado por aprendizado e desenvolvedor C# de Fortaleza-CE 🏖️. 
+E aí, eu sou [Eduardo Marreiro](https://eduardomarreiro.me/), um apaixonado por aprendizado e desenvolvedor C# de Maranguape-CE 🌄. 
 
 Minha conexão com a tecnologia começou na minha infância, através dos jogos eletrônicos 🎮. Com o tempo eu percebi que é uma área fantástica e com diversas possibilidades de atuação. 
 
