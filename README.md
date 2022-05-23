@@ -12,8 +12,6 @@ E aí, eu sou [Eduardo Marreiro](https://eduardomarreiro.me/), um apaixonado por
 Minha conexão com a tecnologia começou na minha infância, através dos jogos eletrônicos 🎮. Com o tempo eu percebi que é uma área fantástica e com diversas possibilidades de atuação. 
 
 Eu também sou um entusiasta do aprendizado de idiomas, apesar de ser iniciante é algo que acho incrível 🤩🤩
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Entre em contato [email](mailto:eduardo4pc@outlook.com).
 - 💬 Dúvidas? Me faça uma pergunta, ficarei feliz em ajudar.
