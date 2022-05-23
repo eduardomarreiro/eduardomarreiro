@@ -12,7 +12,9 @@ E aí, eu sou [Eduardo Marreiro](https://eduardomarreiro.me/), um apaixonado por
 Minha conexão com a tecnologia começou na minha infância, através dos jogos eletrônicos 🎮. Com o tempo eu percebi que é uma área fantástica e com diversas possibilidades de atuação. 
 
 Eu também sou um entusiasta do aprendizado de idiomas, apesar de ser iniciante é algo que acho incrível 🤩🤩
-  
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+    
 - 💼 Entre em contato [email](mailto:eduardo4pc@outlook.com).
 - 💬 Dúvidas? Me faça uma pergunta, ficarei feliz em ajudar.
 
@@ -28,18 +30,15 @@ Eu também sou um entusiasta do aprendizado de idiomas, apesar de ser iniciante 
 <!--START_SECTION:waka-->
 
 ```text
-Angular   7 hrs 20 mins      █████████████████▒░░░░░░░   69.12 %
-TypeScript   3 hrs           ███████░░░░░░░░░░░░░░░░░░   27.90 %
-HTML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Javascript   7 hrs 20 mins   █████████████████▒░░░░░░░   69.12 %
+Sass         3 hrs           ███████░░░░░░░░░░░░░░░░░░   27.90 %
+ReactJS      30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
 
 Se você gostou do que eu faço, que tal tomarmos um café? ☕️☕️
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 
 📈 Minhas estatíscas do github
 
