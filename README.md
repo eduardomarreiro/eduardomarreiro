@@ -30,7 +30,7 @@ Eu também sou um entusiasta do aprendizado de idiomas, apesar de ser iniciante 
 <!--START_SECTION:waka-->
 
 ```text
-Javascript   7 hrs 20 mins   █████████████████▒░░░░░░░   69.12 %
+Angular      7 hrs 20 mins   █████████████████▒░░░░░░░   69.12 %
 Sass         3 hrs           ███████░░░░░░░░░░░░░░░░░░   27.90 %
 ReactJS      30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
