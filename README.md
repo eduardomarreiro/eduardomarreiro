@@ -24,23 +24,7 @@ Eu também sou um entusiasta do aprendizado de idiomas, apesar de ser iniciante 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **Essa semana eu estudei um pouco de:**
-<!--START_SECTION:waka-->
-
-```text
-Angular      7 hrs 20 mins   █████████████████▒░░░░░░░   69.12 %
-Sass         3 hrs           ███████░░░░░░░░░░░░░░░░░░   27.90 %
-ReactJS      30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-```
-
-<!--END_SECTION:waka-->
-
 Se você gostou do que eu faço, que tal tomarmos um café? ☕️☕️
-
-📈 Minhas estatíscas do github
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eduardomarreiro&show_icons=true&theme=gotham" alt="eduardomarreiro" />
 
 
 
